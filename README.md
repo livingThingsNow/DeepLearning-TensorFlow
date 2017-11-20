@@ -1,2 +1,10 @@
 # DeepLearning-TensorFlow
-Deep Learning TensorFlow Keras (詳解 ディープラーニング ~TensorFlow・Kerasによる時系列データ処理)
+Deep Learning TensorFlow Keras 
+
+Tools/Library and Framework
+Intel Distribution for Python
+TensorFlow
+Keras 
+
+参考書籍
+詳解 ディープラーニング ~TensorFlow・Kerasによる時系列データ処理
